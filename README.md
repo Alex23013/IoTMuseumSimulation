@@ -4,6 +4,23 @@ This repository contains a **Node-RED project** for simulating IoT environments 
 The flows define multiple rooms (exhibition and personal-only) instrumented with sensors such as temperature, air quality, illumination, smoke, and noise.
 
 ---
+## 🏛️ Simulation Overview
+
+The project emulates a museum environment with the following setup:
+
+Rooms
+
+* Exhibition rooms (3x): accessible to both personnel and visitors.
+* Personal-only room (1x): restricted to personnel only.
+
+Sensors per room
+* Temperature sensor
+* Air quality sensor
+* Illumination sensor
+* Smoke detector
+* Noise detector
+
+---
 
 ## 🚀 Getting Started
 
